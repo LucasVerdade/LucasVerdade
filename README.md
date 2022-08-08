@@ -1,13 +1,16 @@
 ### 👋 Hi! I'm Lucas!
 
-- 📖 Computer Science undergraduate student at ([UFSC](cco.ufsc.br))
-- 💻 Junior Developer that uses Next.js, React, Typescript, C# and some other technologies
-- 📝 Working on and learning about Artificial Inteliigence like ANN for my undergraduate thesis
-- 🤖 I like to **try** to automate things sometimes 😄
+- 📖 B.Sc. in Computer Science by the Federal University of Santa Catarina, in Brazil. ([UFSC](cco.ufsc.br))
+- 💻 Full Stack Developer with experience using Typescript/Javascript, C#, Python, NestJS, React.js, Next.js, HTML and CSS;
+- 📝 Experience with data science in my Bachelor's degree final project, which used Python, pandas, seaborn and clustering algorithms (used in unsupervised learning);
+- 🤖 I also like to **try** to automate things sometimes 😄
 
 ### Skills:
   
 <div style="display: inline_block"><br>
+    <a href="https://nestjs.com/">
+       <img style="align: center" title="Nest.js Icon" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />   
+    </a>
     <a href="https://nextjs.org/">
          <img style="align: center" title="Next.js Icon" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
     </a>
@@ -23,13 +26,12 @@
         <img style="align: center" title="Javascript Icon" width="30"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     </a>
+    <a href="https://www.python.org/">
+       <img style="align: center" title="Python Icon" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    </a>
     <a href="https://dotnet.microsoft.com/languages/csharp">
         <img style="align: center" title="C# Icon" width="30"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-    </a>
-    <a href="https://code.visualstudio.com/">
-        <img style="align: center" title="VSCode Icon" width="30"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     </a>
 </div>
   
